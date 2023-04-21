@@ -2,4 +2,8 @@
 title: "Dan Kelpsch"
 ---
 
-This is the front page
+# Biography
+
+My name is Dan Kelpsch, and I am a postdoctoral fellow in the laboratory of Steven Farber at the Carnegie Institution for Science Department of Embryology. I completed my doctoral training in the laboratory of Tina Tootle at the University of Iowa in December 2019. My research interests aim to gain an in-depth understanding of cell biology. I have utilized several cell and animal models throughout my training to gain insights into cancer progression and developmental mechanisms.
+
+My recent efforts aim to gain a deeper understanding of lipid metabolism and Apolipoprotein B regulation under the guidance of Dr. Steven Farber. High plasma triglycerides and cholesterol levels, transported via lipoproteins, cause metabolic dysfunction, affecting more than one billion people globally. Thus, there is a need to identify new mechanisms to modulate plasma lipid levels. Human lipid metabolism is remarkably conserved in the larval zebrafish, and this model represents the ideal system for identifying new means of lipoprotein regulation. My goal is to identify new compounds that improve metabolic syndrome in zebrafish with the hopes of eventually translating this work to humans. Throughout my career, I have gained expertise in many techniques essential to cell biology, genetics, and molecular biology.
